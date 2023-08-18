@@ -1,0 +1,14 @@
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\bin\Debug\net7.0\GUESS THE NUMBER.exe
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\bin\Debug\net7.0\GUESS THE NUMBER.deps.json
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\bin\Debug\net7.0\GUESS THE NUMBER.runtimeconfig.json
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\bin\Debug\net7.0\GUESS THE NUMBER.dll
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\bin\Debug\net7.0\GUESS THE NUMBER.pdb
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\obj\Debug\net7.0\GUESS THE NUMBER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\obj\Debug\net7.0\GUESS THE NUMBER.AssemblyInfoInputs.cache
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\obj\Debug\net7.0\GUESS THE NUMBER.AssemblyInfo.cs
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\obj\Debug\net7.0\GUESS THE NUMBER.csproj.CoreCompileInputs.cache
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\obj\Debug\net7.0\GUESS THE NUMBER.dll
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\obj\Debug\net7.0\refint\GUESS THE NUMBER.dll
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\obj\Debug\net7.0\GUESS THE NUMBER.pdb
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\obj\Debug\net7.0\GUESS THE NUMBER.genruntimeconfig.cache
+C:\Users\Санечка\Desktop\guess the number\GUESS THE NUMBER\obj\Debug\net7.0\ref\GUESS THE NUMBER.dll
